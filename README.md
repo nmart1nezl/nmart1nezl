@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I'm Nicolás Martínez López a Student of Systems Engineering by National University of Colombia
+- 🌱 I'm Nicolás Martínez López a Student of Systems Engineering at the National University of Colombia
 - ⚡ Fun fact: I like to play/watch Soccer and watch TV Series
 <!--
 **nmart1nezl/nmart1nezl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
