@@ -108,6 +108,27 @@
 
 ---
 
+## 🤝 Open to Opportunities
+
+I'm currently open to internships or junior roles in:
+- Full-Stack Development  
+- Backend Engineering  
+- Data Engineering / AI  
+
+Feel free to connect or reach out 🚀
+
+---
+
+## Github Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nmart1nezl&theme=radical)
+
+---
+
+## ![Profile Views](https://komarev.com/ghpvc/?username=nmart1nezl&color=blueviolet&style=flat)
+
+---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nicolasmartinezlopez1052)
