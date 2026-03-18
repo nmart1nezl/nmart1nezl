@@ -133,4 +133,4 @@ Feel free to connect or reach out 🚀
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nicolasmartinezlopez1052)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolasmartinezlopez1052)
