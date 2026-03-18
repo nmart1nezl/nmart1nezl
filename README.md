@@ -44,9 +44,9 @@
 
 ## 📊 GitHub Stats
 
-![Nicolás GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Nicolás GitHub stats](https://github-readme-stats.vercel.app/api?username=nmart1nezl&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmart1nezl&layout=compact&theme=radical)
 
 ---
 
@@ -110,4 +110,4 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nicolasmartinezlopez1052)
