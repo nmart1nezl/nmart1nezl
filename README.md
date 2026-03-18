@@ -119,13 +119,15 @@ Feel free to connect or reach out 🚀
 
 ---
 
-## Github Streak
+## 🔥 Github Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nmart1nezl&theme=radical)
 
 ---
 
-## ![Profile Views](https://komarev.com/ghpvc/?username=nmart1nezl&color=blueviolet&style=flat)
+## 👀 Profile Views 
+
+![Profile Views](https://komarev.com/ghpvc/?username=nmart1nezl&color=blueviolet&style=flat)
 
 ---
 
