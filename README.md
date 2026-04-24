@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Nicolás Martínez
 
 💻 Full-Stack Developer | Data Engineering & Machine Learning | Cloud & Microservices | Systems Engineering Student
+
 📍 Bogotá, Colombia  
 
 ---
